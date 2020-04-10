@@ -1,0 +1,33 @@
+uk:
+  next: "Наступний"
+  previous: "Попередній"
+  name: "Назва"
+  body: "Вміст"
+  link_url: "URL для посилання"
+  image: "Зображення"
+  preview: "Попередній перегляд"
+  image_file_name: "І'мя файла зображення"
+  published: "Опублікований"
+  position: "Позиція"
+  y: "Так"
+  n: "Ні"
+  activerecord:
+    models:
+      spree/slide: "Слайд"
+  spree_slider:
+    config_name: "Слайди"
+    config_description: "Работа зі слайдами"
+    title: "Слайди"
+    new_slide: "Новий Слайд"
+    editing_slide: "Редагування Слайду"
+    back_to_slides: "Назад до Слайдів"
+    placeholder_name: "Залиште порожнім, щоб використовувати назву обраного продукту"
+    placeholder_link_url: "Залиште порожнім, щоб використовувати url продукту"
+    image_tip: "Зображення продукту"
+  spree_slider_locations:
+    config_name: "Розміщення Слайдів"
+    config_description: "Робота з розташуванням слайдів"
+    title: "Розташування Слайдів"
+    new_location: "Нове Розташування Слайду"
+    editing_location: "Редагування Розташування Слайдів"
+    back_to_locations: "Назад до Розташування Слайдів"
